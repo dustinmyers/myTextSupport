@@ -1,0 +1,26 @@
+{
+  "name": "myTextSupport",
+  "version": "1.0.0",
+  "description": "TextSupport\r ===========",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dustinmyers/myTextSupport.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dustinmyers/myTextSupport/issues"
+  },
+  "homepage": "https://github.com/dustinmyers/myTextSupport",
+  "dependencies": {
+    "body-parser": "^1.12.3",
+    "cors": "^2.6.0",
+    "express": "^4.12.3",
+    "firebase": "^2.2.4",
+    "twilio": "^2.1.0"
+  }
+}
